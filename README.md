@@ -1,1 +1,1 @@
-# ruby-dojo-todo-list
+# kata-todo-list
